@@ -143,7 +143,7 @@ export default async function Home() {
           <div className="relative">
           <div className="flex justify-center gap-1 text-amber-300">{Array.from({ length: 5 }).map((_, i) => <Star key={i} className="size-4 fill-current" />)}</div>
           <blockquote className="mx-auto mt-6 max-w-2xl text-balance text-2xl font-medium leading-relaxed">“I finally have a resume that sounds like me—and I landed three interviews in the first week.”</blockquote>
-          <p className="mt-5 text-sm text-white/60">Alex Morgan · Product Manager</p>
+          <p className="mt-5 text-sm text-white/60">Mark James Legatic · Product Manager</p>
           </div>
         </div>
       </section></Reveal>
